@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SayyamJain101
-- 👀 I’m interested in Java, Javascript
-- 🌱 I’m currently learning DSA, Node.js
+- 👀 I’m interested in c and c++
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on open source, gsoc...
 - 📫 How to reach me ...
 
